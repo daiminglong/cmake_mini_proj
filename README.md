@@ -1,5 +1,5 @@
 # CMAKE COMPILER USAGE MINI_PROJ
-## intro
+## Intro
 ### Goal of this proj
 This is a mini proj based on cmake compiler, you can create yourself proj which use cmake as compiler tool based on this mini proj. 
 ### Directories intro 
